@@ -1,4 +1,4 @@
-# test_task_brlab
+# test_task1_brlab
 
 Парсер страницы: https://bookmaker-ratings.ru/review/obzor-bukmekerskoj-kontory-ligastavok/all-feedbacks/
 
